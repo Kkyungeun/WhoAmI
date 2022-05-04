@@ -11,6 +11,5 @@
 
 ## Interest 👀
 - Relationship
-- Marketer
+- Study software
 - listning K-POP
-- Solution
